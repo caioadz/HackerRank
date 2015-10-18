@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicCrush_Solution1", "src\AlgorithmicCrush\AlgorithmicCrush_Solution1.csproj", "{E2D43B9D-190F-4CAE-8DC5-AE9808A713F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicCrush_Solution1", "src\AlgorithmicCrush_Solution1\AlgorithmicCrush_Solution1.csproj", "{E2D43B9D-190F-4CAE-8DC5-AE9808A713F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicCrush_Solution2", "src\AlgorithmicCrush_WrongWay\AlgorithmicCrush_Solution2.csproj", "{A6082A44-81C8-40B6-A6B7-ED9F24115216}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicCrush_Solution2", "src\AlgorithmicCrush_Solution2\AlgorithmicCrush_Solution2.csproj", "{A6082A44-81C8-40B6-A6B7-ED9F24115216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
